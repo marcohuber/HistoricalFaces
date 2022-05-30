@@ -1,3 +1,3 @@
-# Historic Faces Dataset
+# Historical Faces Dataset
 
 To be released soon.
