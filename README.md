@@ -7,6 +7,8 @@ The provided meta-information allows to re-create the annotated historic portrai
 
 The meta-information can be downloaded from [here](https://drive.google.com/drive/folders/1d1HJakdaPWnMDsT4D4ehclgVvTc33UW0). Please share your name, affiliation and official email in the request form.
 
+Unfortunately, due to copyrights, other ways of distributing the database is not possible.
+
 If you use this dataset, please cite:
 
 ```
