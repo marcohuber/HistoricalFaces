@@ -20,7 +20,7 @@ If you use this dataset, please cite:
                Naser Damer},
   title     = {Verification of Sitter Identity Across Historical Portrait Paintings by Confidence-aware Face Recognition},
   booktitle = {26th International Conference on Pattern Recognition, {ICPR} 2022,
-               Montreal, Canada, (accepted, to be published)},
+               Montreal, Canada},
   year      = {2022},
 }
 ```
